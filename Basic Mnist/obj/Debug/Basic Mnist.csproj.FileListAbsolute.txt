@@ -1,0 +1,7 @@
+C:\Users\pc\AppData\Local\Temporary Projects\Basic Mnist\bin\Debug\Basic Mnist.exe.config
+C:\Users\pc\Desktop\Escuela\ceti\5to\AI\Basic Mnist\Basic Mnist\bin\Debug\Basic Mnist.exe.config
+C:\Users\pc\Desktop\Escuela\ceti\5to\AI\Basic Mnist\Basic Mnist\bin\Debug\Basic Mnist.exe
+C:\Users\pc\Desktop\Escuela\ceti\5to\AI\Basic Mnist\Basic Mnist\bin\Debug\Basic Mnist.pdb
+C:\Users\pc\Desktop\Escuela\ceti\5to\AI\Basic Mnist\Basic Mnist\obj\Debug\Basic Mnist.csprojResolveAssemblyReference.cache
+C:\Users\pc\Desktop\Escuela\ceti\5to\AI\Basic Mnist\Basic Mnist\obj\Debug\Basic Mnist.exe
+C:\Users\pc\Desktop\Escuela\ceti\5to\AI\Basic Mnist\Basic Mnist\obj\Debug\Basic Mnist.pdb
